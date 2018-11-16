@@ -1,0 +1,9 @@
+>>>Django 2.0.5.
+
+user credential:  //has specific permission .e.g posting polls only
+    admin
+    user1234
+
+Admin credential: //has full site permission .e.g from posting polls t deleting them
+    admin
+    user4321
